@@ -388,6 +388,28 @@ class ZiadAmr:
 
 <div dir="ltr">
 
+### 📋 Key Info
+
+<div align="center">
+
+| 🎯 Status | 🧠 Focus | 🏆 Goal | 💡 Fact | 🚀 Mission |
+|---|---|---|---|---|
+| 🔓 Available for work | Building digital products | Software engineering | Started coding at 14 | Technology is a problem-solving tool |
+
+</div>
+
+---
+
+### 💝 Support Me
+
+<div align="center">
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-ziadamr45-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ziadamr45)
+
+</div>
+
+---
+
 ### 👋 About Me
 
 ```python
