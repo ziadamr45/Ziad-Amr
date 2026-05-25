@@ -51,7 +51,7 @@ class ZiadAmr:
     experience = "3 سنوات | 3 years"
 
     def __init__(self):
-        self.skills = ["Next.js", "React", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL", "Socket.io", "LiveKit"]
+        self.skills = ["Next.js", "React", "TypeScript", "Tailwind CSS3", "Prisma", "PostgreSQL", "Socket.io", "LiveKit"]
         self.passions = ["تطوير الويب", "بناء منتجات رقمية", "الكتابة الأدبية"]
 
     def say_hi(self):
@@ -98,7 +98,7 @@ class ZiadAmr:
 | التقنيات | الوصف |
 |---|---|
 | `Next.js` `React 19` `TypeScript` | إطار العمل والواجهة الأمامية |
-| `Tailwind CSS` `shadcn/ui` | التصميم والمكونات |
+| `Tailwind CSS3` `shadcn/ui` | التصميم والمكونات |
 | `PostgreSQL` `Prisma` | قاعدة البيانات |
 | `Smart Assistant` | مساعد الراديو الذكي |
 | `NextAuth` | نظام المصادقة |
@@ -117,7 +117,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Prisma` | قاعدة البيانات |
 | `LiveKit` | اتصال في الوقت الحقيقي |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://tammeny24.vercel.app/login) | [GitHub](https://github.com/ziadamr45/Tammeny)
 
@@ -132,7 +132,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `LiveKit` | مكالمات صوتية في الوقت الحقيقي |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://elmokhber.vercel.app) | [GitHub](https://github.com/ziadamr45/Elmokhber)
 
@@ -147,7 +147,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` `Socket.io` | إطار العمل والاتصال الفوري |
 | `Prisma` | قاعدة البيانات |
 | `Docker` `Railway` | النشر والحاويات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://motaharrer.vercel.app) | [GitHub](https://github.com/ziadamr45/Battle-of-Questions)
 
@@ -167,7 +167,7 @@ class ZiadAmr:
 | `PostgreSQL` `Prisma` | قاعدة البيانات |
 | `Zustand` | إدارة الحالة |
 | `Web Push` | نظام الإشعارات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [GitHub](https://github.com/ziadamr45/Notifications)
 
@@ -182,7 +182,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Smart Analysis` | تلخيص وتحليل الأخبار |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://bawabet-elhadas.vercel.app) | [GitHub](https://github.com/ziadamr45/Bawabet-elhadas)
 
@@ -197,7 +197,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Smart Analysis` | تحليل الترندات |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://eah-elkalam.vercel.app) | [GitHub](https://github.com/ziadamr45/Eah-Elkalam)
 
@@ -211,7 +211,7 @@ class ZiadAmr:
 |---|---|
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 | `Framer Motion` | الحركات والأنيميشن |
 
 🔗 [زيارة التطبيق](https://hammel-w-engez.vercel.app) | [GitHub](https://github.com/ziadamr45/Hammel-w-Engez)
@@ -227,7 +227,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Python` | معالجة الفيديو |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://quadra-studio.vercel.app) | [GitHub](https://github.com/ziadamr45/quadra_studio)
 
@@ -242,7 +242,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Smart Analysis` | تحليلات وتوقعات ذكية |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://weather-sand-phi.vercel.app) | [GitHub](https://github.com/ziadamr45/Weather-App)
 
@@ -257,7 +257,7 @@ class ZiadAmr:
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `OTP Auth` | نظام المصادقة |
 | `Prisma` | قاعدة البيانات |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة التطبيق](https://eleqbal-amrsobhy.vercel.app) | [GitHub](https://github.com/ziadamr45/Eleqbal-Form)
 
@@ -271,7 +271,7 @@ class ZiadAmr:
 |---|---|
 | `Next.js` `TypeScript` | إطار العمل والواجهة الأمامية |
 | `Framer Motion` | الحركات والأنيميشن |
-| `shadcn/ui` `Tailwind CSS` | التصميم والمكونات |
+| `shadcn/ui` `Tailwind CSS3` | التصميم والمكونات |
 
 🔗 [زيارة الموقع](https://ziadamrme.vercel.app) | [GitHub](https://github.com/ziadamrme)
 
@@ -329,7 +329,7 @@ class ZiadAmr:
 | React 19 | Node.js | VS Code |
 | Next.js 16 | Firebase Auth | npm / Bun |
 | TypeScript 5 | Firebase Firestore | Docker |
-| Tailwind CSS 4 | Web Push API | Railway |
+| Tailwind CSS3 4 | Web Push API | Railway |
 | shadcn/ui | NextAuth | Socket.io |
 | Framer Motion | Cookie Authentication | ImgBB |
 | React Query | LiveKit | Netlify |
@@ -421,7 +421,7 @@ class ZiadAmr:
     experience = "3 سنوات | 3 years"
 
     def __init__(self):
-        self.skills = ["Next.js", "React", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL", "Socket.io", "LiveKit"]
+        self.skills = ["Next.js", "React", "TypeScript", "Tailwind CSS3", "Prisma", "PostgreSQL", "Socket.io", "LiveKit"]
         self.passions = ["Web Development", "Building Digital Products", "Literary Writing"]
 
     def say_hi(self):
@@ -464,7 +464,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | Technologies | Description |
 |---|---|
 | `Next.js` `React 19` `TypeScript` | Framework & Frontend |
-| `Tailwind CSS` `shadcn/ui` | Design & Components |
+| `Tailwind CSS3` `shadcn/ui` | Design & Components |
 | `PostgreSQL` `Prisma` | Database |
 | `Smart Assistant` | Smart radio assistant |
 | `NextAuth` | Authentication system |
@@ -483,7 +483,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Prisma` | Database |
 | `LiveKit` | Real-time communication |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://tammeny24.vercel.app/login) | [GitHub](https://github.com/ziadamr45/Tammeny)
 
@@ -498,7 +498,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `LiveKit` | Real-time voice calls |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://elmokhber.vercel.app) | [GitHub](https://github.com/ziadamr45/Elmokhber)
 
@@ -513,7 +513,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` `Socket.io` | Framework & Real-time |
 | `Prisma` | Database |
 | `Docker` `Railway` | Deployment & Containers |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://motaharrer.vercel.app) | [GitHub](https://github.com/ziadamr45/Battle-of-Questions)
 
@@ -533,7 +533,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `PostgreSQL` `Prisma` | Database |
 | `Zustand` | State management |
 | `Web Push` | Notification system |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [GitHub](https://github.com/ziadamr45/Notifications)
 
@@ -548,7 +548,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Smart Analysis` | News summarization & analysis |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://bawabet-elhadas.vercel.app) | [GitHub](https://github.com/ziadamr45/Bawabet-elhadas)
 
@@ -563,7 +563,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Smart Analysis` | Trend analysis |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://eah-elkalam.vercel.app) | [GitHub](https://github.com/ziadamr45/Eah-Elkalam)
 
@@ -577,7 +577,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 |---|---|
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 | `Framer Motion` | Animations |
 
 🔗 [Visit App](https://hammel-w-engez.vercel.app) | [GitHub](https://github.com/ziadamr45/Hammel-w-Engez)
@@ -593,7 +593,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Python` | Video processing |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://quadra-studio.vercel.app) | [GitHub](https://github.com/ziadamr45/quadra_studio)
 
@@ -608,7 +608,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Smart Analysis` | Smart analytics & forecasts |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://weather-sand-phi.vercel.app) | [GitHub](https://github.com/ziadamr45/Weather-App)
 
@@ -623,7 +623,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `OTP Auth` | Authentication system |
 | `Prisma` | Database |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit App](https://eleqbal-amrsobhy.vercel.app) | [GitHub](https://github.com/ziadamr45/Eleqbal-Form)
 
@@ -637,7 +637,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 |---|---|
 | `Next.js` `TypeScript` | Framework & Frontend |
 | `Framer Motion` | Animations |
-| `shadcn/ui` `Tailwind CSS` | Design & Components |
+| `shadcn/ui` `Tailwind CSS3` | Design & Components |
 
 🔗 [Visit Website](https://ziadamrme.vercel.app) | [GitHub](https://github.com/ziadamrme)
 
@@ -695,7 +695,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 | React 19 | Node.js | VS Code |
 | Next.js 16 | Firebase Auth | npm / Bun |
 | TypeScript 5 | Firebase Firestore | Docker |
-| Tailwind CSS 4 | Web Push API | Railway |
+| Tailwind CSS3 4 | Web Push API | Railway |
 | shadcn/ui | NextAuth | Socket.io |
 | Framer Motion | Cookie Authentication | ImgBB |
 | React Query | LiveKit | Netlify |
