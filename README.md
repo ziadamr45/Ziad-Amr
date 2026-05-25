@@ -19,6 +19,21 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ziadamr45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadamr45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=c9d1d9&langs_count=10" alt="Top Languages" height="180"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadamr45&theme=tokyonight&hide_border=true&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda" alt="Activity Graph" height="220"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadamr45&theme=tokyonight&hide_border=true&background=0a192f&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak Stats" height="180"/>
+
+<br/>
+
+<a href="https://github.com/ziadamr45/Radio"><img src="https://img.shields.io/badge/Radio-إسمع_راديو-0a5c5c?style=for-the-badge&logo=radio&logoColor=white" alt="Radio"/></a>
+<a href="https://github.com/ziadamr45/Elmokhber"><img src="https://img.shields.io/badge/Elmokhber-المخبر-9b59b6?style=for-the-badge&logo=game&logoColor=white" alt="Elmokhber"/></a>
+<a href="https://github.com/ziadamr45/Tammeny"><img src="https://img.shields.io/badge/Tammeny-طمني-27ae60?style=for-the-badge&logo=location&logoColor=white" alt="Tammeny"/></a>
+<a href="https://github.com/ziadamr45/Battle-of-Questions"><img src="https://img.shields.io/badge/Battle-معركة_الأسئلة-e74c3c?style=for-the-badge&logo=swords&logoColor=white" alt="Battle of Questions"/></a>
+<a href="https://github.com/ziadamr45/Bawabet-elhadas"><img src="https://img.shields.io/badge/Bawabet-بوابة_الحدث-3498db?style=for-the-badge&logo=news&logoColor=white" alt="Bawabet Elhadas"/></a>
+
+
 </div>
 
 ---
@@ -343,6 +358,29 @@ class ZiadAmr:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a5c5c&height=100&section=footer" alt="footer"/>
 
 </div>
+
+---
+
+## 📋 معلومات مهمة | Key Info
+
+<div align="center">
+
+| 🎯 الحالة | 🧠 التركيز | 🏆 الهدف | 💡 حقيقة | 🚀 الرسالة |
+|---|---|---|---|---|
+| 🔓 متاح للعمل | بناء منتجات رقمية | هندسة البرمجيات | بدأت البرمجة وأنا 14 سنة | التقنية أداة لحل المشكلات |
+
+</div>
+
+---
+
+## 💝 ادعمني | Support Me
+
+<div align="center">
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-ziadamr45-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ziadamr45)
+
+</div>
+
 
 ---
 
