@@ -81,7 +81,7 @@ class ZiadAmr:
 [![Instagram](https://img.shields.io/badge/Instagram-@ziadamr455-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/ziadamr455/)
 [![Threads](https://img.shields.io/badge/Threads-@ziadamr455-000000?style=flat-square&logo=threads)](https://www.threads.com/@ziadamr455)
 [![Telegram](https://img.shields.io/badge/Telegram-@ziadamr-26A5E4?style=flat-square&logo=telegram)](https://t.me/ziadamr)
-[![YouTube](https://img.shields.io/badge/YouTube-الحياة_على_الطريق-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@alhayat_ala_eltarek?si=pcsc_31Kcv3Jym14?si=pcsc_31Kcv3Jym14)
+[![YouTube](https://img.shields.io/badge/YouTube-الحياة_على_الطريق-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@alhayat_ala_eltarek?si=pcsc_31Kcv3Jym14)
 [![Email](https://img.shields.io/badge/Email-ziad90216@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:ziad90216@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ziadamrme.vercel.app-0a5c5c?style=flat-square&logo=vercel)](https://ziadamrme.vercel.app)
 
@@ -425,7 +425,7 @@ Alongside my passion for programming, I have experience in Dawah and educational
 [![Instagram](https://img.shields.io/badge/Instagram-@ziadamr455-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/ziadamr455/)
 [![Threads](https://img.shields.io/badge/Threads-@ziadamr455-000000?style=flat-square&logo=threads)](https://www.threads.com/@ziadamr455)
 [![Telegram](https://img.shields.io/badge/Telegram-@ziadamr-26A5E4?style=flat-square&logo=telegram)](https://t.me/ziadamr)
-[![YouTube](https://img.shields.io/badge/YouTube-Life_on_the_Road-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@alhayat_ala_eltarek?si=pcsc_31Kcv3Jym14?si=pcsc_31Kcv3Jym14)
+[![YouTube](https://img.shields.io/badge/YouTube-Life_on_the_Road-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@alhayat_ala_eltarek?si=pcsc_31Kcv3Jym14)
 [![Email](https://img.shields.io/badge/Email-ziad90216@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:ziad90216@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ziadamrme.vercel.app-0a5c5c?style=flat-square&logo=vercel)](https://ziadamrme.vercel.app)
 
